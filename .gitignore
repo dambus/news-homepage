@@ -16,7 +16,7 @@
 .prettierignore
 
 # Parcel...
-.pacel_cache/
+.parcel_cache/
 dist/
 node_modules/
 
