@@ -18,6 +18,7 @@
 # Parcel...
 .pacel_cache/
 dist/
+node_modules/
 
 # FE desig files
 design/
