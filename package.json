@@ -1,0 +1,21 @@
+{
+  "name": "news-homepage",
+  "version": "1.0.0",
+  "description": "Frontend Mentor challenge: news-hompage",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [
+    "news",
+    "hompage",
+    "Frontend Mentor",
+    "challenge"
+  ],
+  "author": "Milan Djumic",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3",
+    "parcel": "^2.8.3"
+  }
+}

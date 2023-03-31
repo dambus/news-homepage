@@ -1,0 +1,82 @@
+.header {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  border: 1px solid red;
+
+  &--logo {
+    border: 1px solid blue;
+    grid-row: 1;
+    grid-column: 1;
+    font-size: 3rem;
+  }
+
+  &--nav {
+    grid-row: 1;
+    grid-column: 2;
+    border: 1px solid green;
+
+    display: none;
+    @include sm {
+      display: flex;
+
+      justify-content: end;
+      align-items: center;
+    }
+
+    &--item {
+      // height: 2rem;
+      text-align: center;
+      justify-items: end;
+      padding: 1rem;
+      margin-right: 1rem;
+      color: $c-Dark-grayish-blue;
+      &:last-child {
+        margin-right: 0;
+      }
+    }
+  }
+
+  &--mobile-menu {
+    grid-row: 1;
+    grid-column: 2;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    justify-items: end;
+    // right: 0;
+    @include sm {
+      display: none;
+    }
+    // border: 1px solid red;
+    span {
+      width: 48px;
+      height: 3px;
+      background-color: $c-Very-dark-blue;
+      display: block;
+      position: relative;
+      &::before {
+        position: absolute;
+        content: "";
+        width: 100%;
+        height: 100%;
+        display: block;
+        top: -6px;
+        background-color: $c-Dark-grayish-blue;
+      }
+      &::after {
+        position: absolute;
+        content: "";
+        width: 100%;
+        height: 100%;
+        display: block;
+        top: 6px;
+        background-color: $c-Dark-grayish-blue;
+      }
+    }
+    &--nav-mobile {
+      @include sm {
+        display: none;
+      }
+    }
+  }
+}
