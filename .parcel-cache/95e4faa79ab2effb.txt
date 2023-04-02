@@ -1,12 +1,12 @@
 4374
 64/home/milan/dev/frontend-mentor/news-homepage/src/sass/main.scss1680354283677679573 0
-67/home/milan/dev/frontend-mentor/news-homepage/src/sass/_header.scss1680351951450382819 0
-64/home/milan/dev/frontend-mentor/news-homepage/src/sass/base.scss1680351845462263429 0
+67/home/milan/dev/frontend-mentor/news-homepage/src/sass/_header.scss1680421136782111030 0
+64/home/milan/dev/frontend-mentor/news-homepage/src/sass/base.scss1680421060888670081 0
 75/home/milan/dev/frontend-mentor/news-homepage/src/img/image-top-laptops.jpg1680351845462263429 0
 67/home/milan/dev/frontend-mentor/news-homepage/src/img/icon-menu.svg1680351845462263429 0
 76/home/milan/dev/frontend-mentor/news-homepage/src/img/image-web-3-mobile.jpg1680351845462263429 0
 73/home/milan/dev/frontend-mentor/news-homepage/src/img/icon-menu-close.svg1680351845462263429 0
-56/home/milan/dev/frontend-mentor/news-homepage/index.html1680382654377169780 0
+56/home/milan/dev/frontend-mentor/news-homepage/index.html1680467518021564653 0
 64/home/milan/dev/frontend-mentor/news-homepage/README-template.md1680351845458262915 0
 90/home/milan/dev/frontend-mentor/news-homepage/node_modules/chrome-trace-event/package.json1680351864796500816 0
 88/home/milan/dev/frontend-mentor/news-homepage/node_modules/chrome-trace-event/CHANGES.md1680351864820503349 0
@@ -1444,7 +1444,7 @@
 103/home/milan/dev/frontend-mentor/news-homepage/node_modules/caniuse-lite/data/features/serviceworkers.js1680351865560580963 0
 119/home/milan/dev/frontend-mentor/news-homepage/node_modules/caniuse-lite/data/features/keyboardevent-getmodifierstate.js1680351865524577195 0
 108/home/milan/dev/frontend-mentor/news-homepage/node_modules/@parcel/source-map/parcel_sourcemap_node/build.js1680351864948516858 0
-79/home/milan/dev/frontend-mentor/news-homepage/dist/image-retro-pcs.5906f920.jpg1680375915374444704 0
+79/home/milan/dev/frontend-mentor/news-homepage/dist/image-retro-pcs.5906f920.jpg1680468183476599667 0
 70/home/milan/dev/frontend-mentor/news-homepage/node_modules/safe-buffer1680351864828504193 1
 108/home/milan/dev/frontend-mentor/news-homepage/node_modules/caniuse-lite/data/features/es6-string-includes.js1680351865496574264 0
 99/home/milan/dev/frontend-mentor/news-homepage/node_modules/lmdb/dependencies/v8/v8-fast-api-calls.h1680351865428567146 0
@@ -1464,7 +1464,7 @@
 104/home/milan/dev/frontend-mentor/news-homepage/node_modules/@parcel/transformer-raw/src/RawTransformer.js1680351864824503771 0
 102/home/milan/dev/frontend-mentor/news-homepage/node_modules/caniuse-lite/data/features/tabindex-attr.js1680351865568581800 0
 100/home/milan/dev/frontend-mentor/news-homepage/node_modules/caniuse-lite/data/features/eventsource.js1680351865496574264 0
-83/home/milan/dev/frontend-mentor/news-homepage/dist/image-web-3-desktop.0dc24514.jpg1680375915382445048 0
+83/home/milan/dev/frontend-mentor/news-homepage/dist/image-web-3-desktop.0dc24514.jpg1680468183508592012 0
 99/home/milan/dev/frontend-mentor/news-homepage/node_modules/@parcel/hash/parcel-hash.darwin-x64.node1680351865172540350 0
 90/home/milan/dev/frontend-mentor/news-homepage/node_modules/caniuse-lite/data/regions/CR.js1680351865392563378 0
 99/home/milan/dev/frontend-mentor/news-homepage/node_modules/caniuse-lite/data/features/css-resize.js1680351865464570914 0
@@ -1632,7 +1632,7 @@
 96/home/milan/dev/frontend-mentor/news-homepage/node_modules/caniuse-lite/data/features/picture.js1680351865544579288 0
 101/home/milan/dev/frontend-mentor/news-homepage/node_modules/caniuse-lite/data/features/rel-noopener.js1680351865552580126 0
 111/home/milan/dev/frontend-mentor/news-homepage/node_modules/caniuse-lite/data/features/indeterminate-checkbox.js1680351865516576357 0
-77/home/milan/dev/frontend-mentor/news-homepage/dist/favicon-32x32.b71481b0.png1680375915374444704 0
+77/home/milan/dev/frontend-mentor/news-homepage/dist/favicon-32x32.b71481b0.png1680468183476599667 0
 108/home/milan/dev/frontend-mentor/news-homepage/node_modules/caniuse-lite/data/features/input-email-tel-url.js1680351865520576776 0
 71/home/milan/dev/frontend-mentor/news-homepage/node_modules/caniuse-lite1680351865580583056 1
 86/home/milan/dev/frontend-mentor/news-homepage/node_modules/@parcel/packager-js/LICENSE1680351864776498705 0
@@ -2443,14 +2443,14 @@
 90/home/milan/dev/frontend-mentor/news-homepage/node_modules/sass/types/util/promise_or.d.ts1680351865488573427 0
 90/home/milan/dev/frontend-mentor/news-homepage/node_modules/caniuse-lite/data/regions/CY.js1680351865484573008 0
 87/home/milan/dev/frontend-mentor/news-homepage/node_modules/css-tree/dist/csstree.min.js1680351865260549561 0
-50/home/milan/dev/frontend-mentor/news-homepage/dist1680383007517533695 1
+50/home/milan/dev/frontend-mentor/news-homepage/dist1680469991513220767 1
 96/home/milan/dev/frontend-mentor/news-homepage/node_modules/dom-serializer/lib/esm/index.d.ts.map1680351864984520657 0
 84/home/milan/dev/frontend-mentor/news-homepage/node_modules/yaml/browser/dist/util.js1680351865228546212 0
 126/home/milan/dev/frontend-mentor/news-homepage/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-module1680351865436567984 1
 94/home/milan/dev/frontend-mentor/news-homepage/node_modules/caniuse-lite/data/regions/alt-af.js1680351865180541188 0
 86/home/milan/dev/frontend-mentor/news-homepage/node_modules/css-tree/lib/lexer/error.js1680351865284552074 0
 94/home/milan/dev/frontend-mentor/news-homepage/node_modules/yaml/browser/dist/legacy-exports.js1680351865040526534 0
-69/home/milan/dev/frontend-mentor/news-homepage/dist/index.f7626f62.css1680383007513533690 0
+69/home/milan/dev/frontend-mentor/news-homepage/dist/index.f7626f62.css1680469991509220634 0
 90/home/milan/dev/frontend-mentor/news-homepage/node_modules/caniuse-lite/data/regions/MT.js1680351865536578451 0
 76/home/milan/dev/frontend-mentor/news-homepage/node_modules/timsort/README.md1680351864792500394 0
 84/home/milan/dev/frontend-mentor/news-homepage/node_modules/@parcel/watcher/src/linux1680351865140537001 1
@@ -2886,7 +2886,7 @@
 92/home/milan/dev/frontend-mentor/news-homepage/node_modules/caniuse-lite/data/features/u2f.js1680351865572582219 0
 84/home/milan/dev/frontend-mentor/news-homepage/node_modules/posthtml-parser/readme.md1680351864932515169 0
 90/home/milan/dev/frontend-mentor/news-homepage/node_modules/caniuse-lite/data/regions/PF.js1680351865544579288 0
-72/home/milan/dev/frontend-mentor/news-homepage/src/sass/_mainContent.scss1680383007409533552 0
+72/home/milan/dev/frontend-mentor/news-homepage/src/sass/_mainContent.scss1680473228137325536 0
 111/home/milan/dev/frontend-mentor/news-homepage/node_modules/caniuse-lite/data/features/document-currentscript.js1680351865492573845 0
 102/home/milan/dev/frontend-mentor/news-homepage/node_modules/caniuse-lite/data/features/css-animation.js1680351865396563797 0
 87/home/milan/dev/frontend-mentor/news-homepage/node_modules/sass/types/value/number.d.ts1680351865484573008 0
@@ -2926,7 +2926,7 @@
 86/home/milan/dev/frontend-mentor/news-homepage/node_modules/@jridgewell/gen-mapping/src1680351865092531977 1
 102/home/milan/dev/frontend-mentor/news-homepage/node_modules/caniuse-lite/data/features/vector-effect.js1680351865572582219 0
 92/home/milan/dev/frontend-mentor/news-homepage/node_modules/@swc/helpers/lib/_ts_generator.js1680351865244547887 0
-61/home/milan/dev/frontend-mentor/news-homepage/dist/index.html1680382654493169856 0
+61/home/milan/dev/frontend-mentor/news-homepage/dist/index.html1680468183548582444 0
 72/home/milan/dev/frontend-mentor/news-homepage/node_modules/nth-check/lib1680351865108533651 1
 88/home/milan/dev/frontend-mentor/news-homepage/node_modules/terser/lib/compress/common.js1680351865304554167 0
 90/home/milan/dev/frontend-mentor/news-homepage/node_modules/caniuse-lite/data/regions/TJ.js1680351865572582219 0
@@ -2991,7 +2991,7 @@
 84/home/milan/dev/frontend-mentor/news-homepage/node_modules/@parcel/transformer-babel1680351865104533233 1
 98/home/milan/dev/frontend-mentor/news-homepage/node_modules/caniuse-lite/data/features/maxlength.js1680351865532578032 0
 112/home/milan/dev/frontend-mentor/news-homepage/node_modules/caniuse-lite/data/features/css-hanging-punctuation.js1680351865436567984 0
-81/home/milan/dev/frontend-mentor/news-homepage/dist/image-top-laptops.7c2e458f.jpg1680382481313100608 0
+81/home/milan/dev/frontend-mentor/news-homepage/dist/image-top-laptops.7c2e458f.jpg1680468183504592969 0
 108/home/milan/dev/frontend-mentor/news-homepage/node_modules/caniuse-lite/data/features/background-img-opts.js1680351865284552074 0
 97/home/milan/dev/frontend-mentor/news-homepage/node_modules/lmdb/dependencies/lz4/lib/liblz4.pc.in1680351865428567146 0
 99/home/milan/dev/frontend-mentor/news-homepage/node_modules/caniuse-lite/data/features/css-canvas.js1680351865408565053 0
@@ -3112,9 +3112,9 @@
 82/home/milan/dev/frontend-mentor/news-homepage/node_modules/node-gyp-build/index.js1680351864804501660 0
 83/home/milan/dev/frontend-mentor/news-homepage/node_modules/htmlnano/lib/htmlnano.js1680351865032525696 0
 91/home/milan/dev/frontend-mentor/news-homepage/node_modules/msgpackr/dist/unpack-no-eval.cjs1680351864996521924 0
-73/home/milan/dev/frontend-mentor/news-homepage/dist/index.f7626f62.css.map1680383007517533695 0
+73/home/milan/dev/frontend-mentor/news-homepage/dist/index.f7626f62.css.map1680469991513220767 0
 72/home/milan/dev/frontend-mentor/news-homepage/node_modules/picomatch/lib1680351864932515169 1
-83/home/milan/dev/frontend-mentor/news-homepage/dist/image-gaming-growth.369425ba.jpg1680382555605118726 0
+83/home/milan/dev/frontend-mentor/news-homepage/dist/image-gaming-growth.369425ba.jpg1680468183476599667 0
 78/home/milan/dev/frontend-mentor/news-homepage/node_modules/@parcel/packager-js1680351865124535326 1
 81/home/milan/dev/frontend-mentor/news-homepage/node_modules/msgpackr/dist/index.js1680351865092531977 0
 108/home/milan/dev/frontend-mentor/news-homepage/node_modules/caniuse-lite/data/features/css-read-only-write.js1680351865460570496 0
@@ -3138,7 +3138,7 @@
 78/home/milan/dev/frontend-mentor/news-homepage/node_modules/htmlnano/index.d.ts1680351865340557935 0
 74/home/milan/dev/frontend-mentor/news-homepage/node_modules/tslib/README.md1680351864948516858 0
 142/home/milan/dev/frontend-mentor/news-homepage/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-alias-glob/src/test.js1680351865420566309 0
-76/home/milan/dev/frontend-mentor/news-homepage/dist/news-homepage.3464ddca.js1680382555581118717 0
+76/home/milan/dev/frontend-mentor/news-homepage/dist/news-homepage.3464ddca.js1680468183520589142 0
 98/home/milan/dev/frontend-mentor/news-homepage/node_modules/lightningcss-linux-x64-gnu/package.json1680351864776498705 0
 85/home/milan/dev/frontend-mentor/news-homepage/node_modules/parent-module/package.json1680351864748495750 0
 84/home/milan/dev/frontend-mentor/news-homepage/node_modules/@babel/code-frame/LICENSE1680351864776498705 0
@@ -3168,7 +3168,7 @@
 101/home/milan/dev/frontend-mentor/news-homepage/node_modules/@babel/helper-validator-identifier/scripts1680351864980520235 1
 103/home/milan/dev/frontend-mentor/news-homepage/node_modules/lmdb/node_modules/node-addon-api/except.gypi1680351864816502927 0
 95/home/milan/dev/frontend-mentor/news-homepage/node_modules/cosmiconfig/dist/cacheWrapper.js.map1680351864976519813 0
-80/home/milan/dev/frontend-mentor/news-homepage/dist/news-homepage.3464ddca.js.map1680382555597118723 0
+80/home/milan/dev/frontend-mentor/news-homepage/dist/news-homepage.3464ddca.js.map1680468183524588185 0
 130/home/milan/dev/frontend-mentor/news-homepage/node_modules/@babel/helper-validator-identifier/scripts/generate-identifier-regex.js1680351864988521079 0
 86/home/milan/dev/frontend-mentor/news-homepage/node_modules/@parcel/events/package.json1680351864988521079 0
 93/home/milan/dev/frontend-mentor/news-homepage/node_modules/caniuse-lite/data/features/apng.js1680351865224545793 0
