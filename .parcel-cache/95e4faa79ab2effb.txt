@@ -1571,7 +1571,7 @@
 97/home/milan/github/Frontend Mentor/news-homepage/node_modules/caniuse-lite/data/features/woff2.js1680268620153578616 0
 94/home/milan/github/Frontend Mentor/news-homepage/node_modules/postcss-value-parser/lib/walk.js1680268619461595197 0
 112/home/milan/github/Frontend Mentor/news-homepage/node_modules/@parcel/transformer-babel/lib/remapAstLocations.js1680268619573592514 0
-75/home/milan/github/Frontend Mentor/news-homepage/src/sass/_mainContent.scss1680507225902913937 0
+75/home/milan/github/Frontend Mentor/news-homepage/src/sass/_mainContent.scss1680525434715030620 0
 102/home/milan/github/Frontend Mentor/news-homepage/node_modules/dom-serializer/node_modules/entities/lib1680268619609591652 1
 80/home/milan/github/Frontend Mentor/news-homepage/node_modules/msgpackr/README.md1680268619845585996 0
 149/home/milan/github/Frontend Mentor/news-homepage/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-false-glob/a/index.js1680268619829586380 0
@@ -1640,7 +1640,7 @@
 92/home/milan/github/Frontend Mentor/news-homepage/node_modules/@swc/helpers/lib/_ts_values.js1680268619797587146 0
 113/home/milan/github/Frontend Mentor/news-homepage/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_drop.c1680268619773587721 0
 88/home/milan/github/Frontend Mentor/news-homepage/node_modules/tslib/modules/package.json1680268619485594622 0
-72/home/milan/github/Frontend Mentor/news-homepage/dist/index.f7626f62.css1680524320625200773 0
+72/home/milan/github/Frontend Mentor/news-homepage/dist/index.f7626f62.css1680525434819028250 0
 84/home/milan/github/Frontend Mentor/news-homepage/node_modules/tslib/modules/index.js1680268619373597306 0
 93/home/milan/github/Frontend Mentor/news-homepage/node_modules/@parcel/workers/src/Profiler.js1680268619661590405 0
 84/home/milan/github/Frontend Mentor/news-homepage/node_modules/@parcel/transformer-js1680268620393572865 1
@@ -1686,7 +1686,7 @@
 75/home/milan/github/Frontend Mentor/news-homepage/node_modules/source-map-js1680268619621591364 1
 109/home/milan/github/Frontend Mentor/news-homepage/node_modules/css-select/lib/pseudo-selectors/subselects.d.ts1680268619693589639 0
 89/home/milan/github/Frontend Mentor/news-homepage/node_modules/svgo/plugins/removeTitle.js1680268619805586955 0
-76/home/milan/github/Frontend Mentor/news-homepage/dist/index.f7626f62.css.map1680524320625200773 0
+76/home/milan/github/Frontend Mentor/news-homepage/dist/index.f7626f62.css.map1680525434819028250 0
 114/home/milan/github/Frontend Mentor/news-homepage/node_modules/lmdb/node_modules/node-addon-api/tools/conversion.js1680268619649590693 0
 144/home/milan/github/Frontend Mentor/news-homepage/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-fallback/package.json1680268620005582163 0
 104/home/milan/github/Frontend Mentor/news-homepage/node_modules/css-select/lib/pseudo-selectors/index.d.ts1680268619685589830 0
@@ -3742,7 +3742,7 @@
 90/home/milan/github/Frontend Mentor/news-homepage/node_modules/posthtml/types/posthtml.d.ts1680268619441595677 0
 90/home/milan/github/Frontend Mentor/news-homepage/node_modules/@parcel/transformer-svg/test1680268619477594815 1
 99/home/milan/github/Frontend Mentor/news-homepage/node_modules/@parcel/transformer-svg/lib/inline.js1680268619437595772 0
-53/home/milan/github/Frontend Mentor/news-homepage/dist1680524320625200773 1
+53/home/milan/github/Frontend Mentor/news-homepage/dist1680525434819028250 1
 104/home/milan/github/Frontend Mentor/news-homepage/node_modules/chrome-trace-event/dist/trace-event.js.map1680268619381597115 0
 94/home/milan/github/Frontend Mentor/news-homepage/node_modules/@parcel/transformer-json/LICENSE1680268619349597882 0
 88/home/milan/github/Frontend Mentor/news-homepage/node_modules/@parcel/cache/src/index.js1680268619513593952 0
