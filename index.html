@@ -2,6 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- displays site properly based on user's device -->
 
@@ -18,38 +19,41 @@
       crossorigin="anonymous"
     />
     <link rel="stylesheet" href="/src/sass/main.scss" />
+    <script defer src="src/js/main.js"></script>
     <title>Frontend Mentor | News homepage</title>
 
     <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
   </head>
   <body>
     <div class="container">
-      <div class="row header">
+      <header class="row header">
         <div class="header--logo">W.</div>
         <div class="header--mobile-menu">
           <span></span>
         </div>
-        <div class="header--nav-mobile">
-          <a href="#" class="header--nav-mobile--item hidden">Home</a
-          ><a href="#" class="header--nav-mobile--item hidden">New</a
-          ><a href="#" class="header--nav-mobile--item hidden">Popular</a
-          ><a href="#" class="header--nav-mobile--item hidden">Trending</a
-          ><a href="#" class="header--nav-mobile--item hidden">Categories</a>
-        </div>
-        <div class="header--nav">
+        <nav class="header--nav-mobile hidden">
+          <div class="header--nav-mobile--items">
+            <a href="#" class="header--nav-mobile--items--item">Home</a
+            ><a href="#" class="header--nav-mobile--items--item">New</a
+            ><a href="#" class="header--nav-mobile--items--item">Popular</a
+            ><a href="#" class="header--nav-mobile--items--item">Trending</a
+            ><a href="#" class="header--nav-mobile--items--item">Categories</a>
+          </div>
+        </nav>
+        <nav class="header--nav">
           <a href="#" class="header--nav--item">Home</a
           ><a href="#" class="header--nav--item">New</a
           ><a href="#" class="header--nav--item">Popular</a
           ><a href="#" class="header--nav--item">Trending</a
           ><a href="#" class="header--nav--item">Categories</a>
-        </div>
-      </div>
+        </nav>
+      </header>
     </div>
     <main>
       <div class="container">
         <section class="main-content">
           <div class="main-content--image"></div>
-          <div class="main-content--sidebar-right">
+          <asside class="main-content--sidebar-right">
             <h2 class="main-content--sidebar-right--header">New</h2>
             <article>
               <h4 class="article-heading">
@@ -81,11 +85,11 @@
                 what that means.
               </p>
             </article>
-          </div>
+          </asside>
           <div class="main-content--headline">
-            <div class="main-content--headline--heading">
+            <header class="main-content--headline--heading">
               <h1>The Bright Future of Web 3.0?</h1>
-            </div>
+            </header>
             <div class="main-content--headline--article">
               <p>
                 We dive into the next evolution of the web that claims to put

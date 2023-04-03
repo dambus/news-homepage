@@ -52,6 +52,7 @@
     align-items: center;
     justify-content: end;
     justify-items: end;
+    z-index: 999;
     // right: 0;
     @include sm {
       display: none;
@@ -70,7 +71,7 @@
         height: 100%;
         display: block;
         top: -8px;
-        background-color: $c-Dark-grayish-blue;
+        background-color: $c-Very-dark-blue;
       }
       &::after {
         position: absolute;
@@ -79,12 +80,35 @@
         height: 100%;
         display: block;
         top: 8px;
-        background-color: $c-Dark-grayish-blue;
+        background-color: $c-Very-dark-blue;
       }
     }
-    &--nav-mobile {
-      @include sm {
-        display: none;
+  }
+  &--nav-mobile {
+    position: absolute;
+
+    content: "";
+    top: 0;
+    right: 0;
+    background-color: $c-Off-white;
+    color: $c-Very-dark-blue;
+    width: 75vw;
+    height: 100vh;
+    transition: all 0.5s ease;
+    @include sm {
+      display: none;
+    }
+    &--items {
+      padding-top: 20ch;
+      margin-left: 1rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: start;
+
+      &--item {
+        font-size: 1.5rem;
+        margin-bottom: 1rem;
       }
     }
   }
