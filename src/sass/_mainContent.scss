@@ -1,6 +1,6 @@
 .main-content {
   display: grid;
-  grid-template-rows: 50vh auto auto auto;
+  grid-template-rows: 33vh auto auto auto;
   grid-gap: 2rem;
 
   @include md {
