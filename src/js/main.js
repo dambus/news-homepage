@@ -4,4 +4,5 @@ const mobileNav = document.querySelector(".header--nav-mobile");
 mobileNavButton.addEventListener("click", function (e) {
   // e.target.classlist.toggle("hidden");
   mobileNav.classList.toggle("hidden");
+  mobileNavButton.classList.toggle("header--mobile-menu--clicked");
 });
