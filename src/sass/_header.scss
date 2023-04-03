@@ -7,9 +7,11 @@
 
   &--logo {
     // border: 1px solid blue;
+    font-family: $f-abril;
+    font-weight: 400;
     grid-row: 1;
     grid-column: 1;
-    font-size: 3rem;
+    font-size: 60px;
   }
 
   &--nav {
@@ -29,11 +31,16 @@
       // height: 2rem;
       text-align: center;
       justify-items: end;
-      padding: 1rem;
-      margin-right: 1rem;
+      padding: 15px;
+      margin-right: 15px;
       color: $c-Dark-grayish-blue;
+      transition: 0.5s;
       &:last-child {
         margin-right: 0;
+      }
+      &:hover {
+        color: $c-Soft-red;
+        transition: all 0.5s ease;
       }
     }
   }
@@ -62,7 +69,7 @@
         width: 100%;
         height: 100%;
         display: block;
-        top: -6px;
+        top: -8px;
         background-color: $c-Dark-grayish-blue;
       }
       &::after {
@@ -71,7 +78,7 @@
         width: 100%;
         height: 100%;
         display: block;
-        top: 6px;
+        top: 8px;
         background-color: $c-Dark-grayish-blue;
       }
     }

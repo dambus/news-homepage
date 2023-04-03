@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap");
 $f-inter: "Inter", sans-serif;
-
+$f-abril: "Abril Fatface", cursive;
 .attribution {
   font-size: 11px;
   text-align: center;
@@ -145,6 +146,7 @@ select {
 body {
   font-family: $f-inter;
   background-color: $c-Off-white;
+  font-size: 15px;
 }
 
 a {
@@ -155,6 +157,21 @@ a {
 .container {
   max-width: 375px;
   @include md {
-    max-width: 1208px;
+    max-width: 1200px;
   }
+}
+
+@mixin linkColor($color) {
+  &:hover {
+    color: $color;
+    transition: all 0.5s ease;
+  }
+}
+
+.article-link-red {
+  @include linkColor($c-Soft-red);
+}
+
+.article-link-orange {
+  @include linkColor($c-Soft-orange);
 }
